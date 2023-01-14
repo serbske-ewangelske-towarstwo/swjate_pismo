@@ -11,6 +11,8 @@ Digitalizowanu knihu namakaće w archiwje SLUB [tule](http://digital.slub-dresde
 - "scripts" - wšelakore skripty za awtomatiske wobdźěłanje tekstow
 - "žórła" - wobdźěłane teksty za wutworjenje knihi we wšelakorych formatach
 
+Aktualny staw wobdźěłanja namakaće [tule](https://serbske-ewangelske-towarstwo.github.io/swjate_pismo/).
+
 # podźakowanje
 
 - Wito Bejmak (Serbski Institut) za wutworjenje tekstoweje reprezentacije kóždeje strony pomocy technologije OCR. 
