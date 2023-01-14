@@ -1,0 +1,39 @@
+
+\begin{titlepage}
+
+\begin{centering}
+
+%\vspace{-150pt}
+
+\huge{BIBLIA}
+
+\vspace{10pt}
+
+\LARGE{to je cyłe Swjate pismo stareho a noweho zakonja,}
+
+\vspace{20pt}
+
+\large{prjedy wot D. Marćina Luthera do němzkeje,}
+
+\vspace{10pt}
+
+\large{potom wot duchomnych: Jana Langi w Minakale a Mateja Jokiša w Hbjelzku 
+a Jana Běhmarja w Budeztezach a Jana Wawera w Bukezach, kaž tež wot Michała Frenzela, 
+duchomneho w Budeztezach do hornjołnžizkeje serbzkeje ryče ze wšitkej prózu pšełožena 
+a pozdźišo wot druhich evangelzkich duchomnych wudawana,}
+
+\vspace{10pt}
+
+\large{nětko pak zaso z nowa a to jidnaty króć swěru pšehladana a wudata.}
+
+\vspace{20pt}
+
+\large{W Budyšinje ćišćana pola E. M. Monzy. 1905.}
+
+\end{centering}
+
+\end{titlepage}
+
+% \thispagestyle{empty}
+
+% \pagestyle{empty}

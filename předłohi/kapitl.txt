@@ -5,23 +5,23 @@ kapitl((Prěnje knihi Mójzaskowe))
 
 staw((1. staw))
 
-detail((Stworjenje swěta.)) 
+detail((((Stworjenje swěta.)))) 
 
 %-------------------------------------------------------------------
 
-1. W zpočatku ztwori Bóh njebjesa a zemju. ref((Jant, 1. Kók 1, 16. Pjz. 33, 6. Pz. 102, 26. Hebr. 11, 3.))
+1. W zpočatku ztwori Bóh njebjesa a zemju. ref((((Jant, 1. Kók 1, 16. Pjz. 33, 6. Pz. 102, 26. Hebr. 11, 3.))))
 
 2. A zemja běše puzta a prózna, a ćma bě na hłubokozći; a Boži Duch lětaše na wodach. 
 
-3. A Bóh dźeše: Budź swětło! Dha bu swětło. ref((2 Kor. 4, 6.))
+3. A Bóh dźeše: Budź swětło! Dha bu swětło. ref((((2 Kor. 4, 6.))))
 
-4. A Bóh widźiše swětło, zo je dobre. Duž rosdźěli Bóh swětło wot ćmy. ref((Jez. 45, 7.))
+4. A Bóh widźiše swětło, zo je dobre. Duž rosdźěli Bóh swětło wot ćmy. ref((((Jez. 45, 7.))))
 
 5. A Bóh mjenowaše to swětło dźeń, a tu ćmu mjenowaše wón nóz. A bu wječor a bu rano, prěni dźeń. 
 
-6. A Bóh dźeše: Budź twjerdozć bjes wodami a dźěl wody wot wodow. ref((Jer. 10, 12. St. 51, 15. Pj. 186, 5.))
+6. A Bóh dźeše: Budź twjerdozć bjes wodami a dźěl wody wot wodow. ref((((Jer. 10, 12. St. 51, 15. Pj. 186, 5.))))
 
-7. A Bóh zčini tu twjerdozć a rosdźěli wody, kotrež su pod twjerdozću, wot wodow, kotrež su na twjerdozći. A zta so tak. ref((Pj. 104, 3. Pz. 148, 4.))
+7. A Bóh zčini tu twjerdozć a rosdźěli wody, kotrež su pod twjerdozću, wot wodow, kotrež su na twjerdozći. A zta so tak. ref((((Pj. 104, 3. Pz. 148, 4.))))
 
 8. A Bóh mjenowaše tu twjerdozć njebjesa. A bu wječor a bu rano, druhi dźeń. 
 
@@ -31,13 +31,13 @@ detail((Stworjenje swěta.))
 
 staw((2. staw))
 
-detail((Ssabat. Stworjenje člowjeka. Paradiszahroda. Božej pšikazni a mandźelztwo.)) 
+detail((((Ssabat. Stworjenje člowjeka. Paradiszahroda. Božej pšikazni a mandźelztwo.))))
 
 %-------------------------------------------------------------------
 
 1. Tak buchu dokonjane njebjesa a zemja a wšitko jich wójzko. 
 
-2. A tak dokonja Bóh sedmy dźeń swoje dźěło, kotrež bě činił. A wotpočowaše sedmy dźeń wot wšitkeho swojeho dźěła, kotrež wón bě zčinił. ref((2 Mójz. 20, 11. St. 31, 17., 5, 14. Jez. 40, 28. Hebr. 4, 4.)) 
+2. A tak dokonja Bóh sedmy dźeń swoje dźěło, kotrež bě činił. A wotpočowaše sedmy dźeń wot wšitkeho swojeho dźěła, kotrež wón bě zčinił. ref((((2 Mójz. 20, 11. St. 31, 17., 5, 14. Jez. 40, 28. Hebr. 4, 4.)))) 
 
 3. A Bóh požohnowaše tón sedmy dźeń a swjećeše jón, teho dla, zo wón běše na nim wotpočował wot wšitkeho swojeho dźěła, kotrež Bóh ztworił a zčinił bě. 
 
@@ -47,7 +47,7 @@ detail((Ssabat. Stworjenje člowjeka. Paradiszahroda. Božej pšikazni a mandźe
 
 6. Ale młha dźěše ze zemje a mačeše zyłu zemju. 
 
-7. A Bóh tón Knjes ztwori člowjeka z procha teje zemje a dunu jemu žiwy dych do jeho nosa. A tak bu člowjek žiwa duša. ref((St. 1, 26. 1. Kor. 15, 45.))
+7. A Bóh tón Knjes ztwori člowjeka z procha teje zemje a dunu jemu žiwy dych do jeho nosa. A tak bu člowjek žiwa duša. ref((((St. 1, 26. 1. Kor. 15, 45.))))
 
 8. atd
 
@@ -57,11 +57,11 @@ kapitl((Druhe knihi Mójzaskowe))
 
 staw((1. staw))
 
-detail((Jzraelzkich dźěći słužba a tyšnozć we Egiptowzkej.)) 
+detail((((Jzraelzkich dźěći słužba a tyšnozć we Egiptowzkej.)))) 
 
 %-------------------------------------------------------------------
 
-1. To su mjena Jzraelzkich dźěći, kotrež z Jakubom do Egiptowzkeje pšińdźechu; kóždy pšińdźe ze swojej khěžu nuts: ref((1 Mójz. 46, 8.))
+1. To su mjena Jzraelzkich dźěći, kotrež z Jakubom do Egiptowzkeje pšińdźechu; kóždy pšińdźe ze swojej khěžu nuts: ref((((1 Mójz. 46, 8.))))
 
 2. Ruben, Simeon, Levi, Juda, 
 
@@ -69,10 +69,10 @@ detail((Jzraelzkich dźěći słužba a tyšnozć we Egiptowzkej.))
 
 4. Dan, Naphthali, Gad, Aser. 
 
-5. A wšitkich dušow, kotrež běchu z Jakubowych bjedrow pšišłe, běše sydom dźesać. Jozeph pak bě prjedy we Egiptowzkej. ref((1 Mójz. 46, 27.))
+5. A wšitkich dušow, kotrež běchu z Jakubowych bjedrow pšišłe, běše sydom dźesać. Jozeph pak bě prjedy we Egiptowzkej. ref((((1 Mójz. 46, 27.))))
 
 6. Hdyž pak Jozeph wumrjeł bě a wšitzy jeho bratzja a wšitzy ći, kotziž su we tym času žiwi byli,
 
-7. Rosrozćichu so Jzraelzke dźěći a płodźachu dźěći, pšizporjachu so a rossylnichu so jara wulzy, zo jich tón kraj połny bě. ref((Pj. 105, 24. Jap. zk. 7, 17.))
+7. Rosrozćichu so Jzraelzke dźěći a płodźachu dźěći, pšizporjachu so a rossylnichu so jara wulzy, zo jich tón kraj połny bě. ref((((Pj. 105, 24. Jap. zk. 7, 17.))))
 
 8. ...
