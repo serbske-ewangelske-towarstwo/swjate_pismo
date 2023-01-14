@@ -46,7 +46,7 @@ mkdir -p 04_out_html
 cp $INFOLDER/* 04_out_html
 pushd 04_out_html
 convert_to_latex
-PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ htlatex $MAINFILENAME.tex
+PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ htlatex $MAINFILENAME.tex "xhtml,1,sections+,charset=utf-8" " -cmozhtf -utf8"
 popd
 
 
