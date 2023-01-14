@@ -1,16 +1,22 @@
-# swjate_pismo
+# swjate pismo
 
 Centralny skład za wobdźěłanje Jakubowej biblije a wozjewjenje aktualneho stawa wobdźěłanja.
 
-# Podźakowanje
+Digitalizowanu knihu namakaće w archiwje SLUB [tule](http://digital.slub-dresden.de/id478590679).
+
+Što namakaće tule:
+
+- "TEXT" - wuslědk OCR kóždeje strony knihi
+
+# podźakowanje
 
 - Wito Bejmak (Serbski Institut) za wutworjenje tekstoweje reprezentacije kóždeje strony pomocy technologije OCR. 
 
-# Wobdźělenje
+# wobdźělenje
 
 Štóž ma zajim, při wobdźěłanju pomhać, přizjewi so prošu pola serbskeho ewangelskeho towarstwa.
 
-# Wužiwarske prawa
+# wužiwarske prawa
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
