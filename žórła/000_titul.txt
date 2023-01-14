@@ -32,6 +32,12 @@ a pozdźišo wot druhich evangelzkich duchomnych wudawana,}
 
 \end{centering}
 
+\begin{figure}[b]
+	\centering
+    \includegraphics[width=5cm]{by-sa.eps}
+    \caption{Creative Commons CC-BY-SA}
+\end{figure}
+
 \end{titlepage}
 
 % \thispagestyle{empty}
