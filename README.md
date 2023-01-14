@@ -7,6 +7,7 @@ Digitalizowanu knihu namakaće w archiwje SLUB [tule](http://digital.slub-dresde
 Što namakaće tule:
 
 - "TEXT" - wuslědk OCR kóždeje strony knihi
+- "dźěłowe_wersije" - kapitle, na kotrych so runje dźěła
 - "předłohi" - předłohi za wobdźěłanje kapitlow
 - "scripts" - wšelakore skripty za awtomatiske wobdźěłanje tekstow
 - "žórła" - wobdźěłane teksty za wutworjenje knihi we wšelakorych formatach
