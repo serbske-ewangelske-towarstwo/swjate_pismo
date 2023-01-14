@@ -17,3 +17,8 @@ Awtomatiske přiměrjenje prawopisa.
 - 04_latex.sh
 
 Awtomatiske zestajenje aktualneho stawa biblije we wšelakorych formatach.
+
+- 05_copy_for_publishing.sh
+
+Přihotowanje za wozjewjenje na Github.
+
