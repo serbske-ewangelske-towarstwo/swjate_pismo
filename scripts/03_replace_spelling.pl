@@ -52,7 +52,7 @@ while (<INHANDLE>)
 	my $index_rep;
 	for ($index_rep = 0; $index_rep < $index_pairs; $index_rep++)
 	{
-		$tmp =~ s/$word_pairs[$index_rep][0]/$word_pairs[$index_rep][1]/g;
+		$tmp =~ s/\b$word_pairs[$index_rep][0]\b/$word_pairs[$index_rep][1]/g;
 	}
 	
 	printf OUTHANDLE $tmp . "\n";	
