@@ -14,11 +14,11 @@ Awtomatiske zestajenje stučkow.
 
 Awtomatiske přiměrjenje prawopisa.
 
-- 04_latex.sh
+- 10_latex.sh
 
 Awtomatiske zestajenje aktualneho stawa biblije we wšelakorych formatach.
 
-- 05_copy_for_publishing.sh
+- 20_copy_for_publishing.sh
 
 Přihotowanje za wozjewjenje na Github.
 
