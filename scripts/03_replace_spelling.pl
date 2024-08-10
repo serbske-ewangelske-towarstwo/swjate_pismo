@@ -12,6 +12,7 @@ binmode(INHANDLE, ":encoding(UTF-8)");
 open(OUTHANDLE, "> $OUTFILE") or die ("Cannot open $OUTFILE for writing!");
 binmode(OUTHANDLE, ":encoding(UTF-8)");
 
+# 1. read the "word pairs" file with all replacements
 
 open(PAIRHANDLE, "03_word_pairs.txt") or die ("Cannot open file for word pair replacements!");
 binmode(PAIRHANDLE, ":encoding(UTF-8)");
@@ -33,19 +34,21 @@ while (<PAIRHANDLE>)
 
 close PAIRHANDLE;
 
+# 2. run replacements for every line (hopefully properly arranged in verses) 
+
 while (<INHANDLE>)
 {
 	$tmp = $_;
 	chomp($tmp);
 
-	# replace letters and combinations
+	# replace letters and combinations where it is 100% clear this cannot be current spelling
 	$tmp =~ s/ſch/š/g;
 	$tmp =~ s/cź/ć/g;
 	$tmp =~ s/cž/č/g;
 	$tmp =~ s/ſ/z/g;
 	$tmp =~ s/ß/s/g;
 	
-	# replace syllable separator
+	# replace syllable separator (this hopefully un-breaks words)
 	$tmp =~ s/⸗ //g;
 	
 	# replace words from list
