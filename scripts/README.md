@@ -2,7 +2,7 @@
 
 Wšelakore skripty za awtomatiske wobdźěłanje tekstow.
 
-- 01_split_chapters.pl
+- 01_split_chapters.sh
 
 Zestajenje kapitlow z wuslědkami OCR. Wobsah kóždeho kapitla da so na započatku skripta nastajić.
 
@@ -13,6 +13,11 @@ Awtomatiske zestajenje stučkow.
 - 03_replace_spelling.sh
 
 Awtomatiske přiměrjenje prawopisa.
+
+- 04_update_word_pair_list.sh
+
+TBD
+
 
 - 10_latex.sh
 
