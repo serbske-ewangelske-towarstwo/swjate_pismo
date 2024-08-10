@@ -5,12 +5,12 @@ kapitl((Druhe knihi Mójzaskowe))
 
 staw((1. staw))
 
-detail((((Jzraelzkich dźěći słužba a tyšnozć we Egiptowzkej.))))
+detail((Jzraelzkich dźěći słužba a tyšnozć we Egiptowzkej.))
 
 
 %-------------------------------------------------------------------
 
-1. To su mjena Jzraelzkich dźěći, kotrež z Jakubom do Egiptowzkeje pšińdźechu; kóždy pšińdźe ze swojej khěžu nuts: ref((((1 Mójz. 46, 8.))))
+1. To su mjena Jzraelzkich dźěći, kotrež z Jakubom do Egiptowzkeje pšińdźechu; kóždy pšińdźe ze swojej khěžu nuts: ref((1 Mójz. 46, 8.))
 
 2. Ruben, Simeon, Levi, Juda, 
 
@@ -18,11 +18,11 @@ detail((((Jzraelzkich dźěći słužba a tyšnozć we Egiptowzkej.))))
 
 4. Dan, Naphthali, Gad, Aser. 
 
-5. A wšitkich dušow, kotrež běchu z Jakubowych bjedrow pšišłe, běše sydom dźesać. Jozeph pak bě prjedy we Egiptowzkej. ref((((1 Mójz. 46, 27.))))
+5. A wšitkich dušow, kotrež běchu z Jakubowych bjedrow pšišłe, běše sydom dźesać. Jozeph pak bě prjedy we Egiptowzkej. ref((1 Mójz. 46, 27.))
 
 6. Hdyž pak Jozeph wumrjeł bě a wšitzy jeho bratzja a wšitzy ći, kotziž su we tym času žiwi byli,
 
-7. Rosrozćichu so Jzraelzke dźěći a płodźachu dźěći, pšizporjachu so a rossylnichu so jara wulzy, zo jich tón kraj połny bě. ref((((Pj. 105, 24. Jap. zk. 7, 17.))))
+7. Rosrozćichu so Jzraelzke dźěći a płodźachu dźěći, pšizporjachu so a rossylnichu so jara wulzy, zo jich tón kraj połny bě. ref((Pj. 105, 24. Jap. zk. 7, 17.))
 
 8. ...
 

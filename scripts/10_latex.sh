@@ -3,15 +3,20 @@
 INFOLDER="../žórła/"
 MAINFILENAME="swjate_pismo"
 
+MY_SCRIPT_PATH=$(pwd)
+
 convert_to_latex() {
 	for i in 000_titul.txt 004_pr_k_mojsaskowe.txt 005_d_k_mojsaskowe.txt; do
 		echo $i;
-		(cat $i | sed -e s/\)\)\)\)/\}\}/g \
-		              -e s/\)\)/\}/g \
-			          -e s/kapitl\(\(/\\\\chapter\*\{/g \
-			          -e s/staw\(\(/\\\\section\*\{/g \
-			          -e s/detail\(\(\(\(/\\\\subsection\*\{\\\\textit\{/g \
-			          -e s/ref\(\(\(\(/\\\\hfill\ \{\\\\footnotesize\ \\\\textit\{/g) > $(echo $i | sed -e s/\.txt/\.tex/)
+#		(cat $i | sed -e s/\)\)\)\)/\}\}/g \
+#		              -e s/\)\)/\}/g \
+#			          -e s/kapitl\(\(/\\\\chapter\*\{/g \
+#			          -e s/staw\(\(/\\\\section\*\{/g \
+#			          -e s/detail\(\(\(\(/\\\\subsection\*\{\\\\textit\{/g \
+#			          -e s/ref\(\(\(\(/\\\\hfill\ \{\\\\footnotesize\ \\\\textit\{/g) > $(echo $i | sed -e s/\.txt/\.tex/)
+
+	${MY_SCRIPT_PATH}/10_latex.pl $i $(echo $i | sed -e s/\.txt/\.tex/)
+
 	done
 }
 
