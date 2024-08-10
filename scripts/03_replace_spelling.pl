@@ -13,6 +13,8 @@ open(OUTHANDLE, "> $OUTFILE") or die ("Cannot open $OUTFILE for writing!");
 binmode(OUTHANDLE, ":encoding(UTF-8)");
 
 # 1. read the "word pairs" file with all replacements
+# ever pair is twice in the list, one time all lower case,
+# one time with capital letter at word start
 
 open(PAIRHANDLE, "03_word_pairs.txt") or die ("Cannot open file for word pair replacements!");
 binmode(PAIRHANDLE, ":encoding(UTF-8)");
@@ -25,11 +27,16 @@ while (<PAIRHANDLE>)
 	chomp($tmp);
 	($word_pairs[$index_pairs][0], $word_pairs[$index_pairs][1]) = $tmp =~ m/^(.+)\t(.+)$/;
 	#print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
-	$index_pairs++;
-	$word_pairs[$index_pairs][0] = ucfirst($word_pairs[$index_pairs - 1][0]);
-	$word_pairs[$index_pairs][1] = ucfirst($word_pairs[$index_pairs - 1][1]);
-	# print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
-	$index_pairs++;
+	
+	# for the purpose of this script, we filter out the 1:1 pairs to keep the replacement list short
+	if ($word_pairs[$index_pairs][0] ne $word_pairs[$index_pairs][1])
+	{
+		$index_pairs++;
+		$word_pairs[$index_pairs][0] = ucfirst($word_pairs[$index_pairs - 1][0]);
+		$word_pairs[$index_pairs][1] = ucfirst($word_pairs[$index_pairs - 1][1]);
+		# print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
+		$index_pairs++;
+	}
 }
 
 close PAIRHANDLE;

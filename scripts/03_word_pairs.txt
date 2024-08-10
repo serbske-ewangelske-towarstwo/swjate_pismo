@@ -1,3 +1,4 @@
+a	a
 auguzta	augusta
 bjes	bjez
 bojozć	bojosć
@@ -16,6 +17,8 @@ dźězća	dźěsća
 horjeztaću	horjestaću
 jasnozć	jasnosć
 jaztwa	jastwa
+jeho	jeho
+k	k
 khěžora	kejžora
 khěžorztwa	kejžorstwa
 khiba	chiba
@@ -121,6 +124,7 @@ roswučeny	rozwučeny
 rozćeše	rosćeše
 słužomnizy	słužomnicy
 smilnozć	smilnosć
+so	so
 sswětło	swětło
 ssyn	syn
 schto	što
@@ -135,6 +139,7 @@ wěztozć	wěstosć
 wobkhłódkować	wobchłódkować
 wotmolwi	wotmołwi
 wotmolwjenja	wotmołwjenja
+wón	wón
 wójzka	wójska
 wótza	wótca
 wótzow	wótcow
@@ -153,6 +158,7 @@ zčinił	sčinił
 zeztariłaj	zestariłaj
 zkhadźenje	schadźenje
 zkhowa	schowa
+zo	zo
 zpěšnje	spěšnje
 zpočatka	spočatka
 zpočawši	spočawši
