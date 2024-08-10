@@ -39,6 +39,11 @@ for ($i = 0; $i < @chapters; $i++)
 		$currinfilename = $infolder . "IMG_FILE_" . $formatted_number . "_TEXT.txt";
 		
 		printf "Adding page $currinfilename.\n";
+
+		# add link to original document at page start
+		system("echo >> $outfilename");	
+		system("echo ----------------------------------- https://digital.slub-dresden.de/data/kitodo/BibltojeZ_478590679/BibltojeZ_478590679_tif/jpegs/0000$formatted_number.tif.large.jpg ----------------------------------------------------------- >> $outfilename");	
+		system("echo >> $outfilename");	
 		
 		if (($k == $firstpage) && ($first_page_offset > 0))
 		{
@@ -56,14 +61,6 @@ for ($i = 0; $i < @chapters; $i++)
 		{
 			# copy/paste content of page
 			system("cat $currinfilename >> $outfilename");
-		}
-		
-		if ($k < $lastpage)
-		{
-			# add link to original document at page start
-			system("echo >> $outfilename");	
-			system("echo ----------------------------------- https://digital.slub-dresden.de/data/kitodo/BibltojeZ_478590679/BibltojeZ_478590679_tif/jpegs/0000$formatted_number.tif.large.jpg ----------------------------------------------------------- >> $outfilename");	
-			system("echo >> $outfilename");	
 		}
 	}
 }
