@@ -16,8 +16,7 @@ Awtomatiske přiměrjenje prawopisa.
 
 - 04_update_word_pair_list.sh
 
-TBD
-
+Awtomatiske wutworjenje lisćiny za přehladanje stary / nowy prawopis.
 
 - 10_latex.sh
 
