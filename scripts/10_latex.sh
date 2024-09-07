@@ -22,11 +22,11 @@ convert_to_latex() {
 
 ###############################################################################
 
-rm -rf 04_out_pdf
-mkdir -p 04_out_pdf
+rm -rf 10_out_pdf
+mkdir -p 10_out_pdf
 
-cp $INFOLDER/* 04_out_pdf
-pushd 04_out_pdf
+cp $INFOLDER/* 10_out_pdf
+pushd 10_out_pdf
 convert_to_latex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ latex $MAINFILENAME.tex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ dvipdf $MAINFILENAME.dvi
@@ -34,22 +34,22 @@ popd
 
 ###############################################################################
 
-rm -rf 04_out_epub
-mkdir -p 04_out_epub
+rm -rf 10_out_epub
+mkdir -p 10_out_epub
 
-cp $INFOLDER/* 04_out_epub
-pushd 04_out_epub
+cp $INFOLDER/* 10_out_epub
+pushd 10_out_epub
 convert_to_latex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ tex4ebook $MAINFILENAME.tex
 popd
 
 ###############################################################################
 
-rm -rf 04_out_html
-mkdir -p 04_out_html
+rm -rf 10_out_html
+mkdir -p 10_out_html
 
-cp $INFOLDER/* 04_out_html
-pushd 04_out_html
+cp $INFOLDER/* 10_out_html
+pushd 10_out_html
 convert_to_latex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ htlatex $MAINFILENAME.tex "xhtml,1,sections+,charset=utf-8" " -cmozhtf -utf8"
 popd
