@@ -34,6 +34,8 @@ while (<PAIRHANDLE>)
 
 close PAIRHANDLE;
 
+# printf("Filtering out %d replacement word pairs!\n", $index_pairs);
+
 # 2. read the file with the "equal" word pairs, e.g. those that have been reviewed as ok
 # this makes the word pair list to check shorter each time new accepted "equal" words are added
 
@@ -59,6 +61,8 @@ while (<EQUALHANDLE>)
 }
 
 close EQUALHANDLE;
+
+# printf("List extended to %d word pairs (equal pairs added)!\n", $index_pairs);
 
 # 3. process current file
 
@@ -147,6 +151,12 @@ while (<INHANDLE>)
 							$foundit = 1;
 							last;
 						}
+						
+						# sanity check, word is in 1st column - must not happen
+						if ($word_pairs[$index][0] eq $word)
+						{
+							printf("Error!!! Why is word %s not replaced?\n", $word);
+						}						
 					}
 					
 					if ($foundit == 0)
