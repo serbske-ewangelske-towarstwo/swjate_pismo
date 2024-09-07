@@ -34,7 +34,26 @@ while (<PAIRHANDLE>)
 
 close PAIRHANDLE;
 
-# 2. process current file
+# 2. read the file with the "equal" word pairs, e.g. those that have been reviewed as ok
+# this makes the word pair list to check shorter each time new accepted "equal" words are added
+
+open(EQUALHANDLE, "04_equal_word_pairs.txt") or die ("Cannot open file for equal word pair replacements!");
+binmode(EQUALHANDLE, ":encoding(UTF-8)");
+
+while (<EQUALHANDLE>)
+{
+	# for the purpose of this script, we want to use all pairs (even equal ones)
+	# and we only need the lower case variant
+	$tmp = $_;
+	chomp($tmp);
+	($word_pairs[$index_pairs][0], $word_pairs[$index_pairs][1]) = $tmp =~ m/^(.+)\t(.+)$/;
+	#print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
+	$index_pairs++;
+}
+
+close EQUALHANDLE;
+
+# 3. process current file
 
 my @wordlist;
 my @occurrences;

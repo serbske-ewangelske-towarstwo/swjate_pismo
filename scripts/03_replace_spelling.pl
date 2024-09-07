@@ -37,6 +37,11 @@ while (<PAIRHANDLE>)
 		# print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
 		$index_pairs++;
 	}
+	else
+	{
+		# equal word pairs should not be in the list at all anymore (moved to separate file), so warn here
+		printf("ERROR!!!!!!!!!!!!!!! Equal word pair should not be in list !!!!!!!!!!!!!!!!!!!!!\n");	
+	}
 }
 
 close PAIRHANDLE;
