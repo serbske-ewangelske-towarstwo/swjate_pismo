@@ -54,7 +54,8 @@ while (<EQUALHANDLE>)
 	# sanity check, pairs must be equal
 	if ($word_pairs[$index_pairs][0] ne $word_pairs[$index_pairs][1])
 	{
-		printf("ERROR!!!!!!!!!!!!!!! Equal word pair expected !!!!!!!!!!!!!!!!!!!!!\n");	
+		printf("ERROR!!!!!!!!!!!!!!! Equal word pair expected, got %s --> %s !!!!!!!!!!!!!!!!!!!!!\n", 
+			$word_pairs[$index_pairs][0], $word_pairs[$index_pairs][1]);	
 	}
 		
 	$index_pairs++;

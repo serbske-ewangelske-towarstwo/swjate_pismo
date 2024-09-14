@@ -381,7 +381,6 @@ mojej	mojej
 mohł	mohł
 mjezow	mjezow
 měšnik	měšnik
-mandźelzku	mandźelsku
 maćeri	maćeri
 ludźi	ludźi
 lubować	lubować
@@ -900,3 +899,5 @@ zjawneho	zjawneho
 žiwych	žiwych
 žiwa	žiwa
 žito	žito
+lět	lět
+łamach	łamach

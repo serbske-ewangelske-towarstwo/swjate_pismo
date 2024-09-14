@@ -373,8 +373,6 @@ nječizći	nječisći
 naztróžichu	nastróžichu
 mordaŕztwo	mordarstwo
 měztach	městach
-lět	lět
-łamach	łamach
 kšižuj	křižuj
 kšižowali	křižowali
 kšižowachu	křižowachu
@@ -476,3 +474,4 @@ zkazyć	skazyć
 zkazał	skazał
 zkały	skały
 žiwnozć	žiwnosć
+mandźelzku	mandźelsku

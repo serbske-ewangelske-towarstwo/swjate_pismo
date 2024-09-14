@@ -40,7 +40,7 @@ while (<PAIRHANDLE>)
 	else
 	{
 		# equal word pairs should not be in the list at all anymore (moved to separate file), so warn here
-		printf("ERROR!!!!!!!!!!!!!!! Equal word pair should not be in list !!!!!!!!!!!!!!!!!!!!!\n");	
+		printf("ERROR!!!!!!!!!!!!!!! Equal word pair %s should not be in list !!!!!!!!!!!!!!!!!!!!!\n", $word_pairs[$index_pairs][0]);	
 	}
 }
 
