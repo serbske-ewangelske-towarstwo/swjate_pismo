@@ -6,7 +6,8 @@ MAINFILENAME="swjate_pismo"
 MY_SCRIPT_PATH=$(pwd)
 
 convert_to_latex() {
-	for i in 000_titul.txt 004_pr_k_mojsaskowe.txt 005_d_k_mojsaskowe.txt; do
+	for i in 000_titul.txt 004_pr_k_mojsaskowe.txt 005_d_k_mojsaskowe.txt \
+	    060_sc_sw_marka.txt; do
 		echo $i;
 #		(cat $i | sed -e s/\)\)\)\)/\}\}/g \
 #		              -e s/\)\)/\}/g \
