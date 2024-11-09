@@ -1045,6 +1045,25 @@ sidona	sidona
 addiowy	addiowy
 silohi	silohi
 ezromowy	ezromowy
+judaš	judaš
+suzanna	suzanna
+hiob	hiob
+abraham	abraham
+mójzasowym	mójzasowym
+teophile	teophile
+dapita	dapita
+tharaowy	tharaowy
+tiberiusa	tiberiusa
+tira	tira
+tirej	tirej
+sidonje	sidonje
+eliakimowy	eliakimowy
+zorobabelowy	zorobabelowy
+johanna	johanna
+philippu	philippu
+aramowy	aramowy
+abrahamej	abrahamej
+zebedeoweju	zebedeoweju
 
 
 

@@ -1177,47 +1177,29 @@ nazareth	nacaret
 smilnozće	smilnosće
 cžlowjek	čłowjek
 pšećelam	přećelam
-
-
-
-
-
-
-
-spz	s Ps
-sslepi	slepi
 ssyjeŕ	syjer
-[teho	[ teho
 člozki	čłoski
 člowjeku	čłowjeku
 ssyno	syno
 štalće	štalće
-[sta	[ sta
 chzyli	chcyli
-chceš⸗li	Chceš-li
-bethlehem	Betlehem
+chceš⸗li	chceš-li
+bethlehem	betlehem
 ćěmnozć	ćěmnosć
-štyrifěršta	štyri fěršta
-štyrisłyšeše	štyri słyšeše
 wuzkhnjenej	wuschnjenej
-judaš	Judaš
-abilenzkej	Abilenskej
+abilenzkej	abilenskej
 rjossypje	rozsypje
 zpušćeše	spušćeše
-suzanna	Suzanna
 pšiwjedli	přiwjedli
 swbjatym	swjatym
-prečpušćenu	preč pušćenu
 swězy	swěcy
 cžińće	čińće
 žónzku	žónsku
 nječiztemu	nječistemu
 sym⸗li	sym-li
 khromych	chromych
-emmaus	Emmaws
-hiob	Hiob
-abraham	Abraham
-zžirenzkeho	Cirenskeho
+emmaus	emmaws
+zžirenzkeho	cirenskeho
 taflićku	tafličku
 tzećeho	třećeho
 knjejzki	knjejski
@@ -1228,18 +1210,11 @@ zyle	cyle
 zyłeho	cyłeho
 zyhele	cyhele
 čizte	čiste
-mójzasowym	Mójzasowym
 pšihotowa	přihotowa
-teophile	Teophile
-dapita	Dapita
-tharaowy	Tharaowy
 panu	padnu
-tiberiusa	Tiberiusa
-tira	Tira
 zuzym	cuzym
 zuzobnik	cuzobnik
 zuznik	cuznik
-tirej	Tirej
 panuwši	padnywši
 ztupił	stupił
 ztudnje	studnje
@@ -1268,15 +1243,11 @@ ztanuštaj	stanyštaj
 ztajnje	stajnje
 ztachu	stachu
 khudoby	chudoby
-sidonje	Sidonje
 tšepjetajo	třepotajo
 pokhilena	pochilena
-tupšisahu	tu přisahu
 zrozymili	zrozumili
 bojozću	bojosću
-eliakimowy	Eliakimowy
-tymčasu	tym času
-jonanowuy	Jonanowy
+jonanowuy	jonanowy
 zpytowanje	spytowanje
 zpytowanjach	spytowanjach
 tzećej	třećej
@@ -1294,9 +1265,7 @@ zpočał	spočał
 lizt	list
 zpalił	spalił
 tzjo	třjo
-zorobabelowy	Zorobabelowy
 mjatlički	mjetlički
-jšarioth	jšarioth
 zonopowemu	žonopowemu
 zohnujće	žohnujće
 tzěše	třěše
@@ -1304,7 +1273,6 @@ tzěše	třěše
 znim	z nim
 wěrnozći	wěrnosći
 wěŕ	wěr
-johanna	Johanna
 widźazy	widźacy
 horjeztawanju	horjestawanju
 zteja	steja
@@ -1317,9 +1285,7 @@ njewotmolwiće	njewotmołwiće
 ztrach	strach
 njepšedawaju	njepředawaju
 budźeće⸗li	budźeće-li
-philippu	Philippu
 zkutka	skutka
-[někajki	[ někajki
 šazy	ćazy
 zkradne	skradnje
 zkót	skót
@@ -1335,7 +1301,6 @@ wjedźiše	wjedźeše
 zkazył	skazył
 zkaženje	skaženje
 zkale	skale
-aramowy	Aramowy
 wjesełi	wjesołi
 wjeseły	wjesoły
 pšiwjedźeštaj	přiwjedźeštaj
@@ -1355,7 +1320,6 @@ judowuy	judowy
 wobzkoržowachu	wobskoržowachu
 wobztajni	wobstajni
 wobztarna	wobstarna
-abrahamej	Abrahamej
 pšibližało	přibližało
 zeztawanjow	zestawanjow
 wočeŕztwił	wočerstwił
@@ -1380,7 +1344,6 @@ zechzyše	zechcyše
 zazpić	zacpěć
 wučizćenje	wučisćenje
 měztku	městku
-zebedeoweju	Zebedeoweju
 zazpěwać	zaspěwać
 wjeŕch	wjerch
 njewoztajili	njewostajili
@@ -1389,7 +1352,6 @@ lothowu	lotowu
 zcże	sće
 zkładowali	składowali
 zčinjene	sčinjene
-wótzama	wótcam a
 wotztorčeny	wotstorčeny
 wotztorčichu	wotstorčichu
 zćeŕpliwozći	sćerpliwosći
@@ -1408,7 +1370,7 @@ woztajił	wostajił
 mudrozć	mudrosć
 woztaj	wostaj
 woztało	wostało
-njeje⸗li	Njeje-li
+njeje⸗li	njeje-li
 zběhnuwši	zběhnywši
 woztudźić	wostudźić
 wućahnuł	wućahnył
