@@ -996,7 +996,7 @@ neriowy	neriowy
 jezajasa	jezajasa
 nathanaelu	nathanaelu
 noachowy	noachowy
-oculi	Oculi
+oculi	oculi
 eztomihi	eztomihi
 handriju	handriju
 thomaša	thomaša
@@ -1026,7 +1026,6 @@ kapernauma	kapernauma
 lazara	lazara
 jakubowym	jakubowym
 amosowuy	amosowuy
-bethlehema	betlehema
 kainanowy	kainanowy
 jezuso	jezuso
 jerichu	jerichu
@@ -1372,7 +1371,6 @@ zaničowachu	zaničowachu
 žanej	žanej
 zakonja	zakonja
 zakonikam	zakonikam
-zadyn	žadyn
 zaćisnjeny	zaćisnjeny
 wzate	wzate
 wysoko	wysoko
@@ -1651,7 +1649,6 @@ hanibu	hanibu
 hanibować	hanibować
 hamta	hamta
 hamće	hamće
-dźowzy	dźowcy
 dźowku	dźowku
 dźowki	dźowki
 dźewjeć	dźewjeć
@@ -1980,7 +1977,6 @@ wósomdźesać	wósomdźesać
 wosoł	wosoł
 wosmym	wosmym
 wósła	wósła
-wosebnozćach	wosebnosćach
 wosebnje	wosebnje
 wora	wora
 wopušćili	wopušćili
@@ -3192,7 +3188,6 @@ boja	boja
 bohotoweje	bohotoweje
 bohotom	bohotom
 bohot	bohot
-bohatztwa	bohatstwa
 bohatym	bohatym
 bohateho	bohateho
 blida	blida
@@ -3210,3 +3205,6 @@ běhajo	běhajo
 bědźeše	bědźeše
 běchmy	běchmy
 basnički	basnički
+jěs	jěs
+štalt	štalt
+štalće	štalće

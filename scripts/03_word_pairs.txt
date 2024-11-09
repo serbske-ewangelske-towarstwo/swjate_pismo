@@ -633,7 +633,6 @@ złonik	słonik
 zkutkach	skutkach
 zkału	skału
 mzdźi	mzdźe
-jěs	jěs
 njepanuli	njepanyli
 zyłym	cyłym
 woinika	winika
@@ -1181,7 +1180,6 @@ ssyjeŕ	syjer
 člozki	čłoski
 člowjeku	čłowjeku
 ssyno	syno
-štalće	štalće
 chzyli	chcyli
 chceš⸗li	chceš-li
 bethlehem	betlehem
@@ -1269,7 +1267,6 @@ mjatlički	mjetlički
 zonopowemu	žonopowemu
 zohnujće	žohnujće
 tzěše	třěše
-štalt	štalt
 znim	z nim
 wěrnozći	wěrnosći
 wěŕ	wěr
@@ -1389,3 +1386,8 @@ prózy	prócy
 prózneho	prócneho
 zpalić	spalić
 rozćechu	rosćechu
+zadyn	žadyn
+dźowzy	dźowcy
+wosebnozćach	wosebnosćach
+bohatztwa	bohatstwa
+bethlehema	betlehema
