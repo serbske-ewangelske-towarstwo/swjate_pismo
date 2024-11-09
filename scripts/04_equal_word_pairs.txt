@@ -1064,31 +1064,9 @@ philippu	philippu
 aramowy	aramowy
 abrahamej	abrahamej
 zebedeoweju	zebedeoweju
-
-
-
-
-
-mich	mich
-eph	eph
-tob	tob
-šaz	šaz
-šaza	šaza
-kn	kn
-hoz	hoz
-ez	ez
-bok	bok
 žnu	žnu
 žnješ	žnješ
 wzata	wzata
-sur	sur
-sudn	sudn
-sa	sa
-s9	s9
-prě	prě
-łn	łn
-jezj	jezj
-dha	dha
 jeneho	jeneho
 mjenom	mjenom
 wšitkón	wšitkón
@@ -1144,15 +1122,12 @@ swět	swět
 štom	štom
 šoł	šoł
 słužić	słužić
-ryče	ryče
-ryčachu	ryčachu
 rěkaju	rěkaju
 puntow	puntow
 prošu	prošu
 prawych	prawych
 prawe	prawe
 pósłany	pósłany
-pj	pj
 njeju	njeju
 njejsu	njejsu
 njebój	njebój
@@ -1162,7 +1137,6 @@ mojemu	mojemu
 lóže	lóže
 lěto	lěto
 kubła	kubła
-kron	kron
 kotrejž	kotrejž
 komuž	komuž
 kajki	kajki
@@ -1195,13 +1169,11 @@ swjedźeń	swjedźeń
 swjate	swjate
 swěrny	swěrny
 słužomnik	słužomnik
-ryčeštaj	ryčeštaj
 rjekń	rjekń
 rjekńće	rjekńće
 rjadu	rjadu
 radźi	radźi
 punt	punt
-pšipowjedachu	připowjedachu
 požohnowa	požohnowa
 potajene	potajene
 posłuchaše	posłuchaše
@@ -1221,7 +1193,6 @@ mjena	mjena
 mało	mało
 maju	maju
 knježa	knježa
-jzraelu	Israelu
 hrěchow	hrěchow
 honju	honju
 hłowy	hłowy
@@ -1310,8 +1281,6 @@ podobni	podobni
 podobne	podobne
 podali	podali
 płakaše	płakaše
-pharizejzkim	farizejskim
-pharizejzkeho	farizejskeho
 nowe	nowe
 njenamakam	njenamakam
 njemóžu	njemóžu
@@ -1503,7 +1472,6 @@ samodruha	samodruha
 sameje	sameje
 sabatny	sabatny
 sabatnym	sabatnym
-ryčiš	ryčiš
 rybu	rybu
 rum	rum
 ruče	ruče
@@ -1517,13 +1485,6 @@ rěka	rěka
 pytnu	pytnu
 pytałaj	pytałaj
 pytajće	pytajće
-pšiztupić	přistupić
-pšiwjedź	přiwjedź
-pšiwjedźće	přiwjedźće
-pšišło	přišło
-pširodnych	přirodnych
-prózy	prócy
-prózneho	prócneho
 prózdnej	prózdnej
 proch	proch
 prěnju	prěnju
@@ -1739,7 +1700,6 @@ bohabojazny	bohabojazny
 bližši	bližši
 bědnych	bědnych
 běch	běch
-ž	ž
 zymnej	zymnej
 zwonkownym	zwonkownym
 zwonka	zwonka
@@ -1757,7 +1717,6 @@ zrudnym	zrudnym
 zrudnaj	zrudnaj
 zradować	zradować
 žračk	žračk
-zpalić	spalić
 zornu	zornu
 znamjenju	znamjenju
 znaju	znaju
@@ -2333,10 +2292,6 @@ sach	sach
 sabaty	sabaty
 sabata	sabata
 ryješe	ryješe
-ryčow	ryčow
-ryčeli	ryčeli
-ryča	ryča
-ryčach	ryčach
 rybow	rybow
 rybakojo	rybakojo
 ruty	ruty
@@ -2349,7 +2304,6 @@ rubjane	rubjane
 rubišku	rubišku
 rubać	rubać
 róžkny	róžkny
-rozćechu	rosćechu
 row	row
 rolu	rolu
 roli	roli
@@ -2716,7 +2670,6 @@ nikak	nikak
 nihdźe	nihdźe
 někotrym	někotrym
 někajkeje	někajkeje
-neh	neh
 něhdy	něhdy
 nawuč	nawuč
 nawučić	nawučić
@@ -2984,7 +2937,6 @@ jutrowny	jutrowny
 jutrowničku	jutrowničku
 judowemu	judowemu
 jon	jon
-j	j
 jichtnym	jichtnym
 jězorje	jězorje
 jeničku	jeničku
@@ -3100,7 +3052,6 @@ hady	hady
 hada	hada
 grunt	grunt
 grunta	grunta
-gal	gal
 figowym	figowym
 figowy	figowy
 figi	figi
@@ -3221,7 +3172,6 @@ byłaj	byłaj
 bydleše	bydleše
 bychmój	bychmój
 buštej	buštej
-bu-dźe	bu-dźe
 bróžnje	bróžnje
 bróń	bróń
 brjuch	brjuch
@@ -3260,6 +3210,3 @@ běhajo	běhajo
 bědźeše	bědźeše
 běchmy	běchmy
 basnički	basnički
-aw	aw
-ana	ana
-am	am
