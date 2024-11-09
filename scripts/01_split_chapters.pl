@@ -42,7 +42,9 @@ for ($i = 0; $i < @chapters; $i++)
 
 		# add link to original document at page start
 		system("echo >> $outfilename");	
-		system("echo ----------------------------------- https://digital.slub-dresden.de/data/kitodo/BibltojeZ_478590679/BibltojeZ_478590679_tif/jpegs/0000$formatted_number.tif.large.jpg ----------------------------------------------------------- >> $outfilename");	
+		system("echo %%%%-----------------------------------  >> $outfilename");	
+		system("echo %%%% https://digital.slub-dresden.de/data/kitodo/BibltojeZ_478590679/BibltojeZ_478590679_tif/jpegs/0000$formatted_number.tif.large.jpg  >> $outfilename");	 
+		system("echo %%%%----------------------------------------------------------- >> $outfilename");	
 		system("echo >> $outfilename");	
 		
 		if (($k == $firstpage) && ($first_page_offset > 0))
