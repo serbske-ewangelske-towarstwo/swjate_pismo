@@ -1,4 +1,4 @@
-﻿ 
+ 
 %-----------------------------------
 % https://digital.slub-dresden.de/data/kitodo/BibltojeZ_478590679/BibltojeZ_478590679_tif/jpegs/00001387.tif.large.jpg
 %-----------------------------------------------------------
@@ -197,11 +197,9 @@ detail((Tekst na prěnju njedźelu adwenta. III.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((2. staw))
 
-detail((Chrystusowy narod, wobrězanje, přinjesenje do templa a rozryčowanje.Janowy narod a dźěćatstwo))
+detail((Chrystusowy narod, wobrězanje, přinjesenje do templa a rozryčowanje. Janowy narod a dźěćatstwo))
 
 detail((Sćenje na Boži dźeń a tekst III.))
 
@@ -351,8 +349,6 @@ detail((Sćenje na prěnju njedźe po třoch kralach.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((3. staw))
 
 detail((Janowe pokutne prědowanje a swědčenje wo Chrystusu. Chrystusowa křćeńca. Jozefowa šlachta.))
@@ -450,8 +446,6 @@ detail((Tekst na 3. njedźelu adwenta. III.))
 38. Tón běše syn Enozowy, tón běše syn Sethowy, tón běše syn Hadamowy, tón běše Boži. ref((1 Mójz. 5, 3.))
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((4. staw))
 
@@ -564,8 +558,6 @@ detail((Tekst na 4. njedźelu po třoch kralach. III.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((5. staw))
 
 detail((Pětra ryby łowjenje; wo wusadnym a jichtnym; Mattheja powołanje a wučomnikow požćenje.))
@@ -660,8 +652,6 @@ detail((Sćenje na 5. njedźelu po swj. Trojicy.))
 39. A njeje nichtó, hdyž pije stare, zo by chcył na měsće noweho; přetož wón rjeknje: Stare je lěpše.
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((6. staw))
 
@@ -785,8 +775,6 @@ detail((Sćenje na 4. njedźelu po swj. Trojicy.))
 49. Štóž pak słyši a nječini te same, tón je podobny na tajkeho čłowjeka, kotryž swój dom staji na zemju bjez grunta; a ta rěka na njón biješe, a wón hnydom padźe, a sta so na tym domje wulki torh.
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((7. staw))
 
@@ -915,8 +903,6 @@ detail((Tekst na 22. njedźelu po swj. Trojicy. IV.))
 50. Wón pak dźeše k žónskej: Twoja wěra je će wozbožiła; dźi z měrom. ref((Mark. 5, 34.))
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((8. staw))
 
@@ -1050,8 +1036,6 @@ detail((Wo symjenju Božeho słowa, njewjedrje na morju, wobsynjenym, chorej žo
 56. A jeje staršej dźiwaštaj so njemóžnje. Wón pak přikaza jim, zo bychu nikomu njeprajili to, štož so běše stało. ref((St. 5, 14. Mark. 7, 36.))
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((9. staw))
 
@@ -1214,8 +1198,6 @@ detail((Tekst na 3. njedźelu po swj. Trojicy. IV.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((10. staw))
 
 detail((Wo 70 wučomnikach, běženju ewangelija, puću k žiwjenju a Marćinej prócy.))
@@ -1329,8 +1311,6 @@ detail((Sćenje na 21. njedźelu po swjatej Trojicy.))
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((11. staw))
 
@@ -1460,8 +1440,6 @@ detail((Knjezowa modlitwa, móc modlenja, wuhnaće čerta, žadanje zejchow, wo 
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((12. staw))
 
@@ -1616,8 +1594,6 @@ detail((Tekst na 27. njedźelu po swj. Trojicy. IV.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((13. staw))
 
 detail((Pokutne prědowanje wo wutupjenju Galilejskich, figowym štomje, wo chorej žonje, wo ewangeliju, wuskich wrotach a wupusćenju Jerusalemskim.))
@@ -1728,8 +1704,6 @@ detail((Tekst na 10. njedźelu po swj. Trojicy. IV.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((14. staw))
 
 detail((Wo wódniwym, Chrystusowym hóstnym prědowanju, wulkej wječeri a chodźenju za Jezusom.))
@@ -1825,8 +1799,6 @@ detail((Sćenje na 2. njedźelu po swj. Trojicy.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((15. staw))
 
 detail((Chwalba Božeje smilnosće přez přirunanja.))
@@ -1912,8 +1884,6 @@ detail((Tekst na 11. njedźelu po swj. Trojicy. IV.))
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((16. staw))
 
@@ -2002,8 +1972,6 @@ detail((Sćenje na 1. njedźelu po swj. Trojicy.))
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((17. staw))
 
@@ -2097,8 +2065,6 @@ detail((Sćenje na 14. njedźelu po swj. Trojicy.))
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((18. staw))
 
@@ -2214,8 +2180,6 @@ detail((Sćenje na njedźelu Eztomihi.))
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((19. staw))
 
@@ -2336,8 +2300,6 @@ detail((Sćenje na 10. njedźelu po swj. Trojicy.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((20. staw))
 
 detail((Chrystusowe rozryčenje wo swojej paršonje a swojim hamće, wo dańskim krošu a morwych horjestaću.))
@@ -2455,8 +2417,6 @@ detail((Sćenje na njedźelu Oculi.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((21. staw))
 
 detail((Wo wudowy jałmožinje, zahubjenju Jerusalemskim a kóncu swěta.))
@@ -2555,8 +2515,6 @@ detail((Sćenje na 2. njedźelu adwenta.))
 
 
 %-----------------------------------------------------------
-
-kapitl((Sćenje swjateho Lukaša))
 
 staw((22. staw))
 
@@ -2723,8 +2681,6 @@ detail((Tekst na zeleny štwórtk. IV.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((23. staw))
 
 detail((Chrystusowe ćerpjenje před Pilatusom; jeho křižowanje, smjerć a pohrjebanje.))
@@ -2864,8 +2820,6 @@ detail((Sćenje na ćichi pjatk.))
 
 %-----------------------------------------------------------
 
-kapitl((Sćenje swjateho Lukaša))
-
 staw((24. staw))
 
 detail((Chrystusowe horjestaće a knjebjuztpiće.))
@@ -3000,7 +2954,7 @@ detail((Tekst na Bože spěće. IV.))
 
 50. [Wón wuwjedźe jich pak won hač do Bethanije a pozběže swojej rucy horje a požohnowa jich. ref((Jap. zk. 1, 12.))
 
-51. A sta so, jako wón jich požohnowa, pušći wón so wot nich a bu horje zběhnjeny do njebjes. r((Mark. 16, 19. Jap. zk. 1, 9))
+51. A sta so, jako wón jich požohnowa, pušći wón so wot nich a bu horje zběhnjeny do njebjes. ref((Mark. 16, 19. Jap. zk. 1, 9))
 
 52. A woni modlachu so k njemu a wróćichu so zaso do Jerusalema z wulkej wjesołosću;
 
