@@ -30,6 +30,7 @@ cp $INFOLDER/* 10_out_pdf
 pushd 10_out_pdf
 convert_to_latex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ latex $MAINFILENAME.tex
+PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ latex $MAINFILENAME.tex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ dvipdf $MAINFILENAME.dvi
 popd
 
@@ -42,6 +43,7 @@ cp $INFOLDER/* 10_out_epub
 pushd 10_out_epub
 convert_to_latex
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ tex4ebook $MAINFILENAME.tex
+PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ tex4ebook $MAINFILENAME.tex
 popd
 
 ###############################################################################
@@ -52,6 +54,7 @@ mkdir -p 10_out_html
 cp $INFOLDER/* 10_out_html
 pushd 10_out_html
 convert_to_latex
+PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ htlatex $MAINFILENAME.tex "xhtml,1,sections+,charset=utf-8" " -cmozhtf -utf8"
 PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux/ htlatex $MAINFILENAME.tex "xhtml,1,sections+,charset=utf-8" " -cmozhtf -utf8"
 popd
 

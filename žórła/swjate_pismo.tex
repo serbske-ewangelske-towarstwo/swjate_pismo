@@ -6,7 +6,15 @@
 \usepackage{caption}
 \captionsetup[figure]{labelformat=empty} % redefines the caption setup of the figures environment in the beamer class.
 
+\renewcommand{\contentsname}{Wobsah}
+
 \begin{document}
+
+\addtocontents{toc}{\begin{center}\textbf{\large{Stary testament}}\end{center}}
+
+\addtocontents{toc}{\begin{center}...\end{center}}
+
+\addtocontents{toc}{\begin{center}\textbf{\large{Nowy testament}}\end{center}}
 
 \input{000_titul.tex}
 
@@ -15,9 +23,9 @@
 \newpage
 
 % not yet
-%\tableofcontents
+\tableofcontents
 
-%\newpage
+\newpage
 
 \input{060_sc_sw_marka.tex}
 

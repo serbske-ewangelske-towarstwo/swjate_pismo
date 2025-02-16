@@ -12,6 +12,8 @@ binmode(INHANDLE, ":encoding(UTF-8)");
 open(OUTHANDLE, "> $OUTFILE") or die ("Cannot open $OUTFILE for writing!");
 binmode(OUTHANDLE, ":encoding(UTF-8)");
 
+$TOC_LINE="";
+
 while (<INHANDLE>)
 {
 	$tmp = $_;
@@ -21,8 +23,13 @@ while (<INHANDLE>)
 	# \chapter*{...}
 	if ($tmp =~ m/kapitl\(\(/)
 	{
+		# fetch the name of the chapter for the TOC line
+		($tocline_content) = $tmp =~ m/kapitl\(\((.+)\)\)/;
+		
 		$tmp =~ s/\)\)/\}/;
 		$tmp =~ s/kapitl\(\(/\\chapter\*\{/;
+				
+		$TOC_LINE = "\n\\addcontentsline{toc}{chapter}{\\protect\\numberline{}" . $tocline_content . "}\n\n\\markboth{" . $tocline_content . "}{" . $tocline_content . "}";
 	}
 	
 	
@@ -50,7 +57,13 @@ while (<INHANDLE>)
 		$tmp =~ s/ref\(\(/\\hfill\ \{\\footnotesize\ \\textit\{/;
 	}
 		
-	print OUTHANDLE $tmp . "\n";	
+	print OUTHANDLE $tmp . "\n";
+	
+	if (length($TOC_LINE) > 0)
+	{
+		print OUTHANDLE $TOC_LINE . "\n";
+		$TOC_LINE = "";
+	}
 }
 
 close INHANDLE;
