@@ -31,11 +31,18 @@ while (<PAIRHANDLE>)
 	# for the purpose of this script, we filter out the 1:1 pairs to keep the replacement list short
 	if ($word_pairs[$index_pairs][0] ne $word_pairs[$index_pairs][1])
 	{
-		$index_pairs++;
-		$word_pairs[$index_pairs][0] = ucfirst($word_pairs[$index_pairs - 1][0]);
-		$word_pairs[$index_pairs][1] = ucfirst($word_pairs[$index_pairs - 1][1]);
-		# print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
-		$index_pairs++;
+		if ($word_pairs[$index_pairs][0] ne ucfirst($word_pairs[$index_pairs][0]))
+		{
+			$index_pairs++;
+			$word_pairs[$index_pairs][0] = ucfirst($word_pairs[$index_pairs - 1][0]);
+			$word_pairs[$index_pairs][1] = ucfirst($word_pairs[$index_pairs - 1][1]);
+			# print $word_pairs[$index_pairs][0] . " : " . $word_pairs[$index_pairs][1] . "\n";
+			$index_pairs++;
+		}
+		else
+		{
+			printf("INFO: There is no upper case variant for %s.\n", $word_pairs[$index_pairs][0]);
+		}
 	}
 	else
 	{
@@ -70,6 +77,9 @@ while (<INHANDLE>)
 		$tmp =~ s/\b$word_pairs[$index_rep][0]\b/$word_pairs[$index_rep][1]/g;
 	}
 	
+	# replace this special character if not already done by replacement list
+	$tmp =~ s/⸗/-/g;
+		
 	printf OUTHANDLE $tmp . "\n";	
 }
 
