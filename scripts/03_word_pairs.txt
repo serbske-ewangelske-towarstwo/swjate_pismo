@@ -1755,3 +1755,8 @@ bje	bě
 azizkich	aziskich
 athenzzy	athenscy
 alexander	aleksander
+azizkej	aziskej
+mazedonzkeje	mazedonskeje
+poztažechu	postažechu
+pozćachu	posćachu
+pomozy	pomocy
