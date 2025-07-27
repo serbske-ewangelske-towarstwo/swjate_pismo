@@ -17,7 +17,7 @@ convert_to_latex() {
 #			          -e s/detail\(\(\(\(/\\\\subsection\*\{\\\\textit\{/g \
 #			          -e s/ref\(\(\(\(/\\\\hfill\ \{\\\\footnotesize\ \\\\textit\{/g) > $(echo $i | sed -e s/\.txt/\.tex/)
 
-	${MY_SCRIPT_PATH}/10_latex.pl $i $(echo $i | sed -e s/\.txt/\.tex/)
+	perl ${MY_SCRIPT_PATH}/10_latex.pl $i $(echo $i | sed -e s/\.txt/\.tex/)
 
 	done
 }

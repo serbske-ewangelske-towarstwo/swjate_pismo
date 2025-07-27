@@ -1859,7 +1859,6 @@ zpodobać	spodobać
 zpłodźi	spłodźi
 zpěwać	spěwać
 zpěšne	spěšne
-žohnowanjom	žohnowanjom
 znutskomnym	znutřkownym
 znutskomneho	znutřkowneho
 złózću	złósću
