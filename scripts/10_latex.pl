@@ -57,6 +57,14 @@ while (<INHANDLE>)
 		$tmp =~ s/ref\(\(/\\hfill\ \{\\footnotesize\ \\textit\{/;
 	}
 		
+	# replace "vertspace(())" with latex command
+	# \newline \noindent
+	if ($tmp =~ m/vertspace\(\(/)
+	{
+		$tmp =~ s/\)\)//;
+		$tmp =~ s/vertspace\(\(/\\vspace\{10mm\} \\noindent/;
+	}
+		
 	print OUTHANDLE $tmp . "\n";
 	
 	if (length($TOC_LINE) > 0)
