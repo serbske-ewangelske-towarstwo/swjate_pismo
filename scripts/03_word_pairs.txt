@@ -2449,3 +2449,4 @@ aje	a je
 zkaženja	skaženja
 lakomztwo	lakomstwo
 njezkazyli	njeskazyli
+njewoztudź	njewostudź

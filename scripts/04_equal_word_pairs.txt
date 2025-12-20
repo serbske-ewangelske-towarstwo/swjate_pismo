@@ -4806,7 +4806,6 @@ njewužitny	njewužitny
 njewušne	njewušne
 njewumjeta	njewumjeta
 njewučili	njewučili
-njewoztudź	njewostudź
 njewomazany	njewomazany
 njewobroćichu	njewobroćichu
 njewidźimy	njewidźimy
