@@ -2229,16 +2229,12 @@ zkažena	skažena
 zion	cion
 zdźeržliwozć	zdźeržliwosć
 zdźeržliwozći	zdźeržliwosći
-zdaluj	zdaluj
-zdaće	zdaće
 zčiniło	sčiniło
 zčiniłe	sčiniłe
 zćeŕpnozć	sćerpnosć
 zćeŕpnozću	sćerpnosću
 zbóžnozću	zbóžnosću
-zbóžnje	zbóžnje
 zbóžnikej	Zbóžnikej
-zazyglowane	zazyglowane
 zaztojńztwu	zastojnstwu
 zaztojńztwa	zastojnstwa
 zaztojnizy	zastojnicy
@@ -2344,7 +2340,6 @@ podnožki	podnóžki
 płódnozći	płódnosći
 pězka	pěska
 panjeće	padnjeće
-njezwjadnu	njezwjadnu
 njezteješe	njesteješe
 njeztanje	njestanje
 njezpušćeli	njespušćeli
