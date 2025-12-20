@@ -2446,3 +2446,6 @@ anjeposłušnym	a njeposłušnym
 alenjeprawym	ale njeprawym
 akwili	a chwili
 aje	a je
+zkaženja	skaženja
+lakomztwo	lakomstwo
+njezkazyli	njeskazyli

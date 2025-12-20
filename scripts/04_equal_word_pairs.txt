@@ -4321,7 +4321,6 @@ hwězdy	hwězdy
 hłowow	hłowow
 dźakujemy	dźakujemy
 złotych	złotych
-zkaženja	skaženja
 zemjerženje	zemjerženje
 wšě	wšě
 wojować	wojować
@@ -4518,7 +4517,6 @@ lubozna	lubozna
 lubješe	lubješe
 łharjam	łharjam
 lawa	lawa
-lakomztwo	lakomstwo
 kurwu	kurwu
 kurwili	kurwili
 kurwarjam	kurwarjam
@@ -4800,7 +4798,6 @@ padom	padom
 omega	omega
 noa	noa
 njezmazanu	njezmazanu
-njezkazyli	njeskazyli
 njezjebał	njezjebał
 njezdychujće	njezdychujće
 njezachodnemu	njezachodnemu
