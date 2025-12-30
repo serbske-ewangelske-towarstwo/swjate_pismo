@@ -11,7 +11,9 @@ convert_to_latex() {
 	    063_japost_stucki.txt 064_l_paw_romskich.txt 065_p_l_paw_korinth.txt \
 	    066_d_l_paw_korinth.txt 067_l_paw_salatis.txt 068_l_paw_ephesis.txt \
 	    069_l_paw_philipp.txt 070_l_paw_kolosej.txt 071_p_l_paw_thesalon.txt \
-	    072_d_l_thesalon-NOTCORR.txt 073_p_l_paw_timothej-NOTCORR.txt 074_d_l_paw_timothej-NOTCORR.txt ; do
+	    072_d_l_thesalon-NOTCORR.txt 073_p_l_paw_timothej-NOTCORR.txt 074_d_l_paw_timothej-NOTCORR.txt \
+		075_l_paw_tita-NOTCORR.txt 076_l_paw_philemon-NOTCORR.txt 077_p_l_petra-NOTCORR.txt \
+		078_d_l_petra-NOTCORR.txt 079_p_l_jana-NOTCORR.txt; do
 		echo $i;
 #		(cat $i | sed -e s/\)\)\)\)/\}\}/g \
 #		              -e s/\)\)/\}/g \
