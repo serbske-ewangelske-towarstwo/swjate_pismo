@@ -15,7 +15,7 @@ convert_to_latex() {
 		075_l_paw_tita.txt 076_l_paw_philemon.txt 077_p_l_petra.txt \
 		078_d_l_petra.txt 079_p_l_jana.txt\
 		080_d_l_jana.txt 081_t_l_jana.txt 082_l_n_hebrej.txt \
-		083_l_sw_jakuba.txt 084_l_sw_judasa.txt 085_sjew_sw_jana-NOTCORR.txt ; do
+		083_l_sw_jakuba.txt 084_l_sw_judasa.txt 085_sjew_sw_jana.txt ; do
 		echo $i;
 #		(cat $i | sed -e s/\)\)\)\)/\}\}/g \
 #		              -e s/\)\)/\}/g \
