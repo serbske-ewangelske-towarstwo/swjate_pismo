@@ -2545,7 +2545,6 @@ pšehrěšił	přehrěšił
 mjenujzy	mjenujcy
 ezther	esther
 wupšeztrě	wupřestrě
-kij	kij
 jzraelo	israelo
 jzaak	izaak
 pšehrěšili	přehrěšili
@@ -2579,7 +2578,6 @@ wopječizu	wopjećicu
 słónzom	słóncom
 rće	erće
 rosłama	rozłama
-jehnjatow	jehnjatow
 ztronomaj	stronomaj
 rosdźělić	rozdźělić
 dwazyty	dwacyty
@@ -3292,3 +3290,11 @@ benjaminzkich	benjaminskich
 babelzke	babelske
 arabizkeje	arabiskeje
 amorejzkim	amorejskim
+nochzeš	nochceš
+jebuzejzkich	jebuzejskich
+tirus	zirus
+thes	zhes
+judowzkich	judowskich
+bazanzkeho	bazanskeho
+judowzki	judowski
+gileadzkeho	gileadskeho

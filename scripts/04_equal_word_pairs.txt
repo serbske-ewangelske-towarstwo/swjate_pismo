@@ -5292,7 +5292,6 @@ zabići	zabići
 wutupić	wutupić
 wjećenje	wjećenje
 požohnował	požohnował
-nochzeš	nochceš
 leža	leža
 kózła	kózła
 judowych	judowych
@@ -5391,7 +5390,7 @@ ludami	ludami
 jozephej	jozephej
 hłosej	hłosej
 haniby	haniby
-dawidowe	dawitowe
+dawidowe	dawidowe
 bydlili	bydlili
 bjeze	bjeze
 bileam	bileam
@@ -5502,7 +5501,7 @@ fromnych	fromnych
 dźěćoch	dźěćoch
 dźeržane	dźeržane
 drjewom	drjewom
-Dawidom	dawidom
+dawidom	dawidom
 benjaminowych	benjaminowych
 benjamin	benjamin
 žórło	žórło
@@ -5658,7 +5657,7 @@ hroženje	hroženje
 honjachu	honjachu
 fěršće	fěršće
 dźěłachu	dźěłachu
-Dawidowi	dawidowi
+dawidowi	dawidowi
 danielej	danielej
 benhadad	benhadad
 adonia	adonia
@@ -5880,7 +5879,7 @@ dowěrja	dowěrja
 dobyli	dobyli
 dobuchu	dobuchu
 delkach	delkach
-Dawidowa	dawidowa
+dawidowa	dawidowa
 bojiće	bojiće
 bohami	bohami
 žrać	žrać
@@ -5955,7 +5954,6 @@ judowi	judowi
 jozephowe	jozephowe
 jorama	jorama
 jerobeamowych	jerobeamowych
-jebuzejzkich	jebuzejskich
 hubjene	hubjene
 hrozne	hrozne
 hromadźi	hromadźi
@@ -6002,8 +6000,6 @@ wodowe	wodowe
 wobešoł	wobešoł
 wiki	wiki
 wazy	wazy
-tirus	zirus
-thes	zhes
 słužće	słužće
 słušeju	słušeju
 swarješe	swarješe
@@ -6280,7 +6276,6 @@ kamjenja	kamjenja
 kahathowych	kahathowych
 jědźu	jědźu
 jzai	jzai
-judowzkich	judowskich
 joziy	joziy
 jizmael	jizmael
 jejne	jejne
@@ -6319,11 +6314,10 @@ běhaju	běhaju
 bileamej	bileamej
 bije	bije
 bij	bij
-bazanzkeho	bazanskeho
 bar	bar
 antiochusa	antiochusa
 amarja	amarja
-ahitophel	Ahitophel
+ahitophel	ahitophel
 ahimaaz	ahimaaz
 ahabowy	ahabowy
 abnera	abnera
@@ -6657,7 +6651,6 @@ kad	kad
 jědle	jědle
 jzašar	jzašar
 jzajowy	jzajowy
-judowzki	judowski
 jojadźiny	jojadźiny
 jephunowy	jephunowy
 jehnjatam	jehnjatam
@@ -6784,8 +6777,8 @@ wjeći	wjeći
 wjećenju	wjećenju
 waha	waha
 vazthi	vazthi
-uziasa	Uziasa
-uzi	Uzi
+uziasa	uziasa
+uzi	uzi
 twjerdźiznje	twjerdźiznje
 twjerdeho	twjerdeho
 twarja	twarja
@@ -6924,7 +6917,6 @@ hazabja	hazabja
 hanjenju	hanjenju
 hagar	hagar
 gorgias	gorgias
-gileadzkeho	gileadskeho
 gibeona	gibeona
 gerzonowych	gerzonowych
 gehazi	gehazi
@@ -6955,7 +6947,7 @@ brach	brach
 bojiš	bojiš
 bił	bił
 bity	bity
-bildad	Bildad
+bildad	bildad
 bethulije	bethulije
 bathzeba	bathzeba
 baruchej	baruchej
@@ -7281,3 +7273,5 @@ abrahamom	abrahamom
 abjatharej	abjatharej
 abednega	abednega
 abarim	abarim
+kij	kij
+jehnjatow	jehnjatow
