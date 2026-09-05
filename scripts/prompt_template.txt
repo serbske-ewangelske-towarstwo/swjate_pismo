@@ -1,0 +1,13 @@
+Angehängt ist ein obersorbischer Text, der aus einem Buch per OCR generiert, und automatisch vorverarbeitet wurde. Er stellt ein Ewangelium der Bibel dar. 
+
+Für die weitere Verarbeitung soll er folgendermaßen bearbeitet werden: 
+
+Einzelne Verse sollen jeweils auf einer Zeile stehen. Die Verse sind in jedem Abschnitt aufeinander folgend durchnummeriert. 
+
+Die Benennung der Abschnitte (X. staw) sollen auf einer einzelnen Zeile stehen und mit staw(( )) umklammert werden. Der zum Abschnitt gehörende Überschiftstext soll auf einer neuen Zeile stehen und mit detail(( )) umklammert werden.
+
+Weitere Detailüberschriften sollen auf einer einzelnen Zeile stehen und mit detail(( )) umklammert werden. 
+
+Alle Verweise eines Verses auf andere Stellen der Bibel sollen komplett mit ref(( )) umklammert werden, auch wenn es mehrere Verweise in einem Vers sind. 
+
+Für bessere Lesbarkeit des Resultates dürfen LaTex artige Kommentarzeilen bei jedem Abschnitt eingefügt werden. Formatiere mir den Text entsprechend um, ohne ihn inhaltlich zu verändern.
