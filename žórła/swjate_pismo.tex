@@ -10,11 +10,11 @@
 
 \begin{document}
 
-\addtocontents{toc}{\begin{center}\textbf{\large{Stary testament}}\end{center}}
+% \addtocontents{toc}{\begin{center}\textbf{\large{Stary testament}}\end{center}}
 
-\addtocontents{toc}{\begin{center}...\end{center}}
+% \addtocontents{toc}{\begin{center}...\end{center}}
 
-\addtocontents{toc}{\begin{center}\textbf{\large{Nowy testament}}\end{center}}
+% \addtocontents{toc}{\begin{center}\textbf{\large{Nowy testament}}\end{center}}
 
 \input{000_titul.tex}
 
@@ -27,11 +27,17 @@
 
 \newpage
 
+% \addtocontents{toc}{\protect\vspace{1ex}\noindent\textbf{\large{Stary testament}}\protect\par}
+\addtocontents{toc}{\begin{center}\textbf{\large{Stary testament}}\end{center}}
+
 \input{004_pr_k_mojsaskowe-UNCORR.tex}
 
 \clearpage
 
 \newpage
+
+% \addtocontents{toc}{\protect\vspace{1ex}\noindent\textbf{Nowy testament}\protect\par}
+\addtocontents{toc}{\begin{center}\textbf{\large{Nowy testament}}\end{center}}
 
 \input{059_sc_sw_mattheia.tex}
 
