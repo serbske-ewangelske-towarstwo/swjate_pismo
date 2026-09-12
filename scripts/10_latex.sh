@@ -6,7 +6,7 @@ MAINFILENAME="swjate_pismo"
 MY_SCRIPT_PATH=$(pwd)
 
 convert_to_latex() {
-	for i in 000_titul.txt 004_pr_k_mojsaskowe.txt 005_d_k_mojsaskowe.txt \
+	for i in 000_titul.txt 004_pr_k_mojsaskowe-UNCORR.txt 005_d_k_mojsaskowe.txt \
 		059_sc_sw_mattheia.txt \
 	    060_sc_sw_marka.txt 061_sc_sw_lukasa.txt 062_sc_sw_jana.txt \
 	    063_japost_stucki.txt 064_l_paw_romskich.txt 065_p_l_paw_korinth.txt \
